@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7747487fe559e5c17ae7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RotatingCube_QT",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RotatingCube_QT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RotatingCube_QT-Debug-74474f6cd3920ac56fa5.json",
+					"name" : "RotatingCube_QT",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RotatingCube_QT_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RotatingCube_QT_autogen-Debug-ceb242a520619e37d268.json",
+					"name" : "RotatingCube_QT_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RotatingCube_QT_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RotatingCube_QT_autogen_timestamp_deps-Debug-96d8f2c799eef278320d.json",
+					"name" : "RotatingCube_QT_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

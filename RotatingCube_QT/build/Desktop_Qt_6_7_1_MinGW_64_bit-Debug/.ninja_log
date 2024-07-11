@@ -1,0 +1,20 @@
+# ninja log v5
+14	1373	7424429755326050	RotatingCube_QT_autogen/timestamp	2f78ad326a7eef98
+14	1373	7424429755326050	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/mocs_compilation.cpp	2f78ad326a7eef98
+14	1373	7424429755326050	RotatingCube_QT_autogen/mocs_compilation.cpp	2f78ad326a7eef98
+14	1373	7424429755326050	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/timestamp	2f78ad326a7eef98
+1681	6252	7424429423231657	CMakeFiles/RotatingCube_QT.dir/RotatingCube_QT_autogen/mocs_compilation.cpp.obj	9568bd5e5dc8b6f0
+1685	6352	7424429424248147	CMakeFiles/RotatingCube_QT.dir/main.cpp.obj	cfd52df0638b64b8
+1404	6203	7424429803616207	CMakeFiles/RotatingCube_QT.dir/mainwindow.cpp.obj	4c362748e80be95a
+6204	6543	7424429806936278	RotatingCube_QT.exe	b459680035d0ac82
+0	40	0	CMakeFiles/clean.additional	baedbe210acaa455
+40	206	0	clean	577b940aee94fbd7
+10	226	7424436844063212	RotatingCube_QT_autogen/timestamp	2f78ad326a7eef98
+10	226	7424436844063212	RotatingCube_QT_autogen/mocs_compilation.cpp	2f78ad326a7eef98
+10	226	7424436844063212	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/timestamp	2f78ad326a7eef98
+10	226	7424436844063212	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/mocs_compilation.cpp	2f78ad326a7eef98
+252	337	7424436845111547	RotatingCube_QT_autogen/EWIEGA46WW/qrc_images.cpp	4a468311878b9709
+252	337	7424436845111547	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/EWIEGA46WW/qrc_images.cpp	4a468311878b9709
+340	531	7424436847072315	CMakeFiles/RotatingCube_QT.dir/RotatingCube_QT_autogen/EWIEGA46WW/qrc_images.cpp.obj	14d774de328ccfca
+337	3744	7424436879167231	CMakeFiles/RotatingCube_QT.dir/mainwindow.cpp.obj	4c362748e80be95a
+3744	4153	7424436882644657	RotatingCube_QT.exe	7cbd9cac40f6eb45

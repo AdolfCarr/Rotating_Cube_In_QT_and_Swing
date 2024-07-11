@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>connect_omron.png</file>
+        <file>omron.png</file>
+    </qresource>
+</RCC>
