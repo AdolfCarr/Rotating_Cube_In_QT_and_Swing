@@ -1,20 +1,41 @@
 # ninja log v5
-14	1373	7424429755326050	RotatingCube_QT_autogen/timestamp	2f78ad326a7eef98
-14	1373	7424429755326050	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/mocs_compilation.cpp	2f78ad326a7eef98
-14	1373	7424429755326050	RotatingCube_QT_autogen/mocs_compilation.cpp	2f78ad326a7eef98
-14	1373	7424429755326050	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/timestamp	2f78ad326a7eef98
-1681	6252	7424429423231657	CMakeFiles/RotatingCube_QT.dir/RotatingCube_QT_autogen/mocs_compilation.cpp.obj	9568bd5e5dc8b6f0
-1685	6352	7424429424248147	CMakeFiles/RotatingCube_QT.dir/main.cpp.obj	cfd52df0638b64b8
-1404	6203	7424429803616207	CMakeFiles/RotatingCube_QT.dir/mainwindow.cpp.obj	4c362748e80be95a
-6204	6543	7424429806936278	RotatingCube_QT.exe	b459680035d0ac82
-0	40	0	CMakeFiles/clean.additional	baedbe210acaa455
-40	206	0	clean	577b940aee94fbd7
 10	226	7424436844063212	RotatingCube_QT_autogen/timestamp	2f78ad326a7eef98
+10	226	7424436844063212	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/mocs_compilation.cpp	2f78ad326a7eef98
 10	226	7424436844063212	RotatingCube_QT_autogen/mocs_compilation.cpp	2f78ad326a7eef98
 10	226	7424436844063212	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/timestamp	2f78ad326a7eef98
-10	226	7424436844063212	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/mocs_compilation.cpp	2f78ad326a7eef98
+1681	6252	7424429423231657	CMakeFiles/RotatingCube_QT.dir/RotatingCube_QT_autogen/mocs_compilation.cpp.obj	9568bd5e5dc8b6f0
+1685	6352	7424429424248147	CMakeFiles/RotatingCube_QT.dir/main.cpp.obj	cfd52df0638b64b8
+337	3744	7424436879167231	CMakeFiles/RotatingCube_QT.dir/mainwindow.cpp.obj	4c362748e80be95a
+3744	4153	7424436882644657	RotatingCube_QT.exe	7cbd9cac40f6eb45
+0	40	0	CMakeFiles/clean.additional	baedbe210acaa455
+40	206	0	clean	577b940aee94fbd7
 252	337	7424436845111547	RotatingCube_QT_autogen/EWIEGA46WW/qrc_images.cpp	4a468311878b9709
 252	337	7424436845111547	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/EWIEGA46WW/qrc_images.cpp	4a468311878b9709
 340	531	7424436847072315	CMakeFiles/RotatingCube_QT.dir/RotatingCube_QT_autogen/EWIEGA46WW/qrc_images.cpp.obj	14d774de328ccfca
-337	3744	7424436879167231	CMakeFiles/RotatingCube_QT.dir/mainwindow.cpp.obj	4c362748e80be95a
-3744	4153	7424436882644657	RotatingCube_QT.exe	7cbd9cac40f6eb45
+18	1586	7424442736210178	RotatingCube_QT_autogen/timestamp	2f78ad326a7eef98
+18	1586	7424442736210178	RotatingCube_QT_autogen/mocs_compilation.cpp	2f78ad326a7eef98
+18	1586	7424442736210178	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/timestamp	2f78ad326a7eef98
+18	1586	7424442736210178	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/mocs_compilation.cpp	2f78ad326a7eef98
+1621	1746	7424442737710157	RotatingCube_QT_autogen/EWIEGA46WW/qrc_images.cpp	4a468311878b9709
+1621	1746	7424442737710157	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/EWIEGA46WW/qrc_images.cpp	4a468311878b9709
+1746	2075	7424442741115223	CMakeFiles/RotatingCube_QT.dir/RotatingCube_QT_autogen/EWIEGA46WW/qrc_images.cpp.obj	14d774de328ccfca
+1750	7398	7424442794358102	CMakeFiles/RotatingCube_QT.dir/mainwindow.cpp.obj	4c362748e80be95a
+7399	8044	7424442800568053	RotatingCube_QT.exe	7cbd9cac40f6eb45
+14	1441	7424449144847742	RotatingCube_QT_autogen/timestamp	2f78ad326a7eef98
+14	1441	7424449144847742	RotatingCube_QT_autogen/mocs_compilation.cpp	2f78ad326a7eef98
+14	1441	7424449144847742	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/timestamp	2f78ad326a7eef98
+14	1441	7424449144847742	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/mocs_compilation.cpp	2f78ad326a7eef98
+1472	6796	7424449198394035	CMakeFiles/RotatingCube_QT.dir/mainwindow.cpp.obj	4c362748e80be95a
+6798	7215	7424449202386249	RotatingCube_QT.exe	7cbd9cac40f6eb45
+12	1373	7424451020786518	RotatingCube_QT_autogen/timestamp	2f78ad326a7eef98
+12	1373	7424451020786518	RotatingCube_QT_autogen/mocs_compilation.cpp	2f78ad326a7eef98
+12	1373	7424451020786518	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/timestamp	2f78ad326a7eef98
+12	1373	7424451020786518	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/mocs_compilation.cpp	2f78ad326a7eef98
+1403	5633	7424451063370627	CMakeFiles/RotatingCube_QT.dir/mainwindow.cpp.obj	4c362748e80be95a
+5634	6053	7424451067400573	RotatingCube_QT.exe	7cbd9cac40f6eb45
+13	1480	7424451516092422	RotatingCube_QT_autogen/timestamp	2f78ad326a7eef98
+13	1480	7424451516092422	RotatingCube_QT_autogen/mocs_compilation.cpp	2f78ad326a7eef98
+13	1480	7424451516092422	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/timestamp	2f78ad326a7eef98
+13	1480	7424451516092422	C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/mocs_compilation.cpp	2f78ad326a7eef98
+1512	6680	7424451568008399	CMakeFiles/RotatingCube_QT.dir/mainwindow.cpp.obj	4c362748e80be95a
+6681	7128	7424451572329517	RotatingCube_QT.exe	7cbd9cac40f6eb45

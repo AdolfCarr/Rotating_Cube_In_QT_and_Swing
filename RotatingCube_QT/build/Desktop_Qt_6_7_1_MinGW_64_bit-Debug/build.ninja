@@ -192,7 +192,7 @@ build RotatingCube_QT_autogen/timestamp RotatingCube_QT_autogen/mocs_compilation
 #############################################
 # Custom command for RotatingCube_QT_autogen\EWIEGA46WW\qrc_images.cpp
 
-build RotatingCube_QT_autogen/EWIEGA46WW/qrc_images.cpp | ${cmake_ninja_workdir}RotatingCube_QT_autogen/EWIEGA46WW/qrc_images.cpp: CUSTOM_COMMAND C$:/Users/Adolfo$ Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/images.qrc CMakeFiles/RotatingCube_QT_autogen.dir/AutoRcc_images_EWIEGA46WW_Info.json C$:/Users/Adolfo$ Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/connect_omron.png C$:/Users/Adolfo$ Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/omron.png C$:/Qt/6.7.1/mingw_64/./bin/rcc.exe || RotatingCube_QT_autogen RotatingCube_QT_autogen_timestamp_deps
+build RotatingCube_QT_autogen/EWIEGA46WW/qrc_images.cpp | ${cmake_ninja_workdir}RotatingCube_QT_autogen/EWIEGA46WW/qrc_images.cpp: CUSTOM_COMMAND C$:/Users/Adolfo$ Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/images.qrc CMakeFiles/RotatingCube_QT_autogen.dir/AutoRcc_images_EWIEGA46WW_Info.json C$:/Users/Adolfo$ Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/cplusplus.png C$:/Users/Adolfo$ Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/connect_omron.png C$:/Users/Adolfo$ Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/omron.png C$:/Qt/6.7.1/mingw_64/./bin/rcc.exe || RotatingCube_QT_autogen RotatingCube_QT_autogen_timestamp_deps
   COMMAND = cmd.exe /C "cd /D "C:\Users\Adolfo Carrillo\Desktop\RotatingCube_QT_Java\RotatingCube_QT\build\Desktop_Qt_6_7_1_MinGW_64_bit-Debug" && C:\Qt\Tools\CMake_64\bin\cmake.exe -E cmake_autorcc "C:/Users/Adolfo Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/RotatingCube_QT_autogen.dir/AutoRcc_images_EWIEGA46WW_Info.json" Debug"
   DESC = Automatic RCC for images.qrc
   restat = 1
@@ -201,7 +201,7 @@ build RotatingCube_QT_autogen/EWIEGA46WW/qrc_images.cpp | ${cmake_ninja_workdir}
 #############################################
 # Phony custom command for CMakeFiles\RotatingCube_QT_autogen_timestamp_deps
 
-build CMakeFiles/RotatingCube_QT_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/RotatingCube_QT_autogen_timestamp_deps: phony C$:/Qt/6.7.1/mingw_64/./bin/uic.exe C$:/Qt/6.7.1/mingw_64/./bin/moc.exe C$:/Qt/6.7.1/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.7.1/mingw_64/lib/libQt6Core.a
+build CMakeFiles/RotatingCube_QT_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/RotatingCube_QT_autogen_timestamp_deps: phony C$:/Qt/6.7.1/mingw_64/./bin/moc.exe C$:/Qt/6.7.1/mingw_64/./bin/uic.exe C$:/Qt/6.7.1/mingw_64/lib/libQt6Core.a C$:/Qt/6.7.1/mingw_64/lib/libQt6Widgets.a
 
 
 #############################################

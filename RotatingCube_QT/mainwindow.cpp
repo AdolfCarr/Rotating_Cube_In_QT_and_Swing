@@ -1,5 +1,7 @@
 #include "mainwindow.h"
 #include "ui_mainwindow.h"
+#include <QGuiApplication>
+#include <QScreen>
 #include <QTimer>
 #include <QPainter>
 #include <cmath>
@@ -121,7 +123,6 @@ class CvCubRot : public QWidget {
 
 public:
     CvCubRot(QWidget *parent = nullptr) : QWidget(parent), alpha(0) {
-        setFixedSize(800, 800);
         QTimer *timer = new QTimer(this);
         connect(timer, &QTimer::timeout, this, &CvCubRot::rotateCube);
         timer->start(20);
@@ -147,7 +148,6 @@ protected:
         obj.rotateCube(alpha);
         obj.eyeAndScreen();
 
-        // Set pen color to red
         imgPainter.setPen(Qt::blue);
 
         for (int i = 0; i < 8; ++i) {
@@ -169,40 +169,29 @@ private:
     int centerX, centerY;
     Obj5 obj;
     double alpha;
-    /*
- * //to show each line connection between each vertex of the rotating cube
-    void line(QPainter& painter, int i, int j) {
-        Point2D* P = obj.vScr[i];
-        Point2D* Q = obj.vScr[j];
-        painter.drawLine(iX(P->x), iY(P->y), iX(Q->x), iY(Q->y));
-    }
-*/
-    void line(QPainter& painter, int i, int j) {
 
-        // List of edges of the cube
+    void line(QPainter& painter, int i, int j) {
         const std::vector<std::pair<int, int>> edges = {
             {0, 1}, {1, 2}, {2, 3}, {3, 0}, // Bottom face
             {4, 5}, {5, 6}, {6, 7}, {7, 4}, // Top face
             {0, 4}, {1, 5}, {2, 6}, {3, 7}  // Connecting edges
         };
 
-        // Check if the line (i, j) is part of the external sides
         for (auto& edge : edges) {
             if ((i == edge.first && j == edge.second) || (i == edge.second && j == edge.first)) {
                 Point2D* P = obj.vScr[i];
                 Point2D* Q = obj.vScr[j];
                 painter.drawLine(iX(P->x), iY(P->y), iX(Q->x), iY(Q->y));
-                break; // Exit loop once we've drawn the line
             }
         }
     }
 
     int iX(float x) {
-        return std::round(centerX + x);
+        return std::lround(centerX + x);
     }
 
     int iY(float y) {
-        return std::round(centerY - y);
+        return std::lround(centerY - y);
     }
 };
 
@@ -213,16 +202,28 @@ MainWindow::MainWindow(QWidget *parent)
     setCentralWidget(cvCubRot);
 
     // Set the window title
-    setWindowTitle("Rotating3DCube_QT");
+    setWindowTitle("RotatingCube_QT");
 
     // Set the window icon
-    QIcon icon(":/connect_omron.png");
+    QIcon icon(":/cplusplus.png");
     setWindowIcon(icon);
+
+    // Get screen size and set window size to half
+    QSize screenSize = QGuiApplication::primaryScreen()->size();
+    int width = screenSize.width() / 2;
+    int height = screenSize.height() / 2;
+
+    // Set the size and position of the window
+    setGeometry((screenSize.width() - width) / 4, (screenSize.height() - height) / 4, width, height);
+
+    // Set the initial size of the window
+    resize(width, height);
 }
 
 MainWindow::~MainWindow() {
     delete ui;
-    delete cvCubRot;
 }
+
+
 
 #include "mainwindow.moc"//This library is necesary to execute!!!!

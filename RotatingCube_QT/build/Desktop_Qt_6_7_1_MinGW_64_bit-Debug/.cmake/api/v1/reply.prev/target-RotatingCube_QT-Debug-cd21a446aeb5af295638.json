@@ -372,11 +372,11 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "RotatingCube_QT_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 0,
 			"id" : "RotatingCube_QT_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "RotatingCube_QT_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "RotatingCube_QT::@6890427a1f51a3e7e1df",

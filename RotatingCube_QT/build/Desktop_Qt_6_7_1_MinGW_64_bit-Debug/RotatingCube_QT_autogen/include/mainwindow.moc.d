@@ -1,5 +1,10 @@
 C:/Users/Adolfo\ Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/include/mainwindow.moc: C:/Users/Adolfo\ Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/mainwindow.cpp \
   C:/Users/Adolfo\ Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/RotatingCube_QT_autogen/moc_predefs.h \
+  C:/Qt/6.7.1/mingw_64/include/QtCore/QList \
+  C:/Qt/6.7.1/mingw_64/include/QtCore/QObject \
+  C:/Qt/6.7.1/mingw_64/include/QtCore/QRect \
+  C:/Qt/6.7.1/mingw_64/include/QtCore/QSize \
+  C:/Qt/6.7.1/mingw_64/include/QtCore/QSizeF \
   C:/Qt/6.7.1/mingw_64/include/QtCore/QTimer \
   C:/Qt/6.7.1/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/q20memory.h \
@@ -31,10 +36,16 @@ C:/Users/Adolfo\ Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Des
   C:/Qt/6.7.1/mingw_64/include/QtCore/qcontainerinfo.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qcontainertools_impl.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qcontiguouscache.h \
+  C:/Qt/6.7.1/mingw_64/include/QtCore/qcoreapplication.h \
+  C:/Qt/6.7.1/mingw_64/include/QtCore/qcoreapplication_platform.h \
+  C:/Qt/6.7.1/mingw_64/include/QtCore/qcoreevent.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qdarwinhelpers.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qdatastream.h \
+  C:/Qt/6.7.1/mingw_64/include/QtCore/qdeadlinetimer.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qdebug.h \
+  C:/Qt/6.7.1/mingw_64/include/QtCore/qelapsedtimer.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qendian.h \
+  C:/Qt/6.7.1/mingw_64/include/QtCore/qeventloop.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qexceptionhandling.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qflags.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qfloat16.h \
@@ -52,6 +63,7 @@ C:/Users/Adolfo\ Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Des
   C:/Qt/6.7.1/mingw_64/include/QtCore/qlatin1stringview.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qline.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qlist.h \
+  C:/Qt/6.7.1/mingw_64/include/QtCore/qlocale.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qlogging.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qmalloc.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qmap.h \
@@ -61,6 +73,7 @@ C:/Users/Adolfo\ Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Des
   C:/Qt/6.7.1/mingw_64/include/QtCore/qmetatype.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qminmax.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qnamespace.h \
+  C:/Qt/6.7.1/mingw_64/include/QtCore/qnativeinterface.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qnumeric.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qobject.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qobject_impl.h \
@@ -120,7 +133,10 @@ C:/Users/Adolfo\ Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Des
   C:/Qt/6.7.1/mingw_64/include/QtCore/qversiontagging.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qxptype_traits.h \
   C:/Qt/6.7.1/mingw_64/include/QtCore/qyieldcpu.h \
+  C:/Qt/6.7.1/mingw_64/include/QtGui/QGuiApplication \
   C:/Qt/6.7.1/mingw_64/include/QtGui/QPainter \
+  C:/Qt/6.7.1/mingw_64/include/QtGui/QScreen \
+  C:/Qt/6.7.1/mingw_64/include/QtGui/QTransform \
   C:/Qt/6.7.1/mingw_64/include/QtGui/qaction.h \
   C:/Qt/6.7.1/mingw_64/include/QtGui/qbitmap.h \
   C:/Qt/6.7.1/mingw_64/include/QtGui/qbrush.h \
@@ -129,8 +145,11 @@ C:/Users/Adolfo\ Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Des
   C:/Qt/6.7.1/mingw_64/include/QtGui/qfont.h \
   C:/Qt/6.7.1/mingw_64/include/QtGui/qfontinfo.h \
   C:/Qt/6.7.1/mingw_64/include/QtGui/qfontmetrics.h \
+  C:/Qt/6.7.1/mingw_64/include/QtGui/qguiapplication.h \
+  C:/Qt/6.7.1/mingw_64/include/QtGui/qguiapplication_platform.h \
   C:/Qt/6.7.1/mingw_64/include/QtGui/qicon.h \
   C:/Qt/6.7.1/mingw_64/include/QtGui/qimage.h \
+  C:/Qt/6.7.1/mingw_64/include/QtGui/qinputmethod.h \
   C:/Qt/6.7.1/mingw_64/include/QtGui/qkeysequence.h \
   C:/Qt/6.7.1/mingw_64/include/QtGui/qpaintdevice.h \
   C:/Qt/6.7.1/mingw_64/include/QtGui/qpainter.h \
@@ -142,6 +161,8 @@ C:/Users/Adolfo\ Carrillo/Desktop/RotatingCube_QT_Java/RotatingCube_QT/build/Des
   C:/Qt/6.7.1/mingw_64/include/QtGui/qregion.h \
   C:/Qt/6.7.1/mingw_64/include/QtGui/qrgb.h \
   C:/Qt/6.7.1/mingw_64/include/QtGui/qrgba64.h \
+  C:/Qt/6.7.1/mingw_64/include/QtGui/qscreen.h \
+  C:/Qt/6.7.1/mingw_64/include/QtGui/qscreen_platform.h \
   C:/Qt/6.7.1/mingw_64/include/QtGui/qtextoption.h \
   C:/Qt/6.7.1/mingw_64/include/QtGui/qtgui-config.h \
   C:/Qt/6.7.1/mingw_64/include/QtGui/qtguiexports.h \

@@ -2,5 +2,6 @@
     <qresource prefix="/">
         <file>connect_omron.png</file>
         <file>omron.png</file>
+        <file>cplusplus.png</file>
     </qresource>
 </RCC>
