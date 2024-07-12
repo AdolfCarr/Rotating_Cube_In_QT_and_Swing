@@ -30,4 +30,4 @@ you to select a build directory if it's the first time opening the project.
 
 - **Run the Project**: Once the project is successfully built without errors, click on the green play button (or press Ctrl + R) to run the project.
 
-- **View Output**: Qt Creator will show the application's output in the Application Output pane at the bottom of the screen. This pane displays any console output from your application.
+- **View Output**: Qt Creator will show the application's output in the canvas pane at the venter of the screen. 

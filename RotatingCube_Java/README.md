@@ -1,4 +1,4 @@
-# Rotating Cube with Swing in Java
+# Rotating Cube with the API Swing from Java
 
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ## Technologies Used
 
-- **Swing**: A powerful Java API framework used for creating the graphical user interface (GUI).
+- **API Swing**: A powerful Java API framework used for creating the graphical user interface (GUI).
 - **Java**: The programming language used for implementing the core logic and functionality of the computer 3D graphics.
 
 ## How to run the project
@@ -18,4 +18,4 @@
 
 - **Select Project in the project Directory:** Click to select the project and simply click Run.
 
-- **View Output**: Qt Creator will show the application's output in the Application Output pane at the bottom of the screen. This pane displays any console output from your application.
+- **View Output**: NetBeans will show the application's output in the Application Output canvas pane at the middle of the screen.

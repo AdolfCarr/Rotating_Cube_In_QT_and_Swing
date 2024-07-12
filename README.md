@@ -3,7 +3,7 @@
 ## Project Description
 
 This project serves as a foundational tool for understanding  basics of computational 3D Geometry and implementing GUI 
-applications using Java Swing and Qt with C++.
+applications using Qt with C++ and the API Swing from Java. 
 
 ## Features
 
