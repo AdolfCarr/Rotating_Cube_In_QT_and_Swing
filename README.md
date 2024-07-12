@@ -11,7 +11,7 @@ applications using Java Swing and Qt with C++.
 - [Rotating Cube with Swing in Java](https://github.com/AdolfCarr/Rotating3DCube_In_QT_and_Java/tree/main/RotatingCube_Java): Initially considered but not used due to compilation issues caused by the structured binding syntax, which requires C++17 support.
 
 <p align="center">
-  <img src="https://github.com/AdolfCarr/Rotating3DCube_In_QT_and_Java/blob/main/gif_Images/gif_Java.gif" width="250" height="250">
+  <img src="https://github.com/AdolfCarr/Rotating3DCube_In_QT_and_Java/blob/main/gif_Images/gif_Java.gif" width="500" height="500">
 </p>
 <p align="center">
 
@@ -19,7 +19,7 @@ applications using Java Swing and Qt with C++.
 - [Rotating Cube with QT in C++](https://github.com/AdolfCarr/Rotating3DCube_In_QT_and_Java/tree/main/RotatingCube_QT): Initially considered but not used due to compilation issues caused by the structured binding syntax, which requires C++17 support.
 
 <p align="center">
-  <img src="https://github.com/AdolfCarr/Rotating3DCube_In_QT_and_Java/blob/main/gif_Images/gif_C.gif" width="250" height="250">
+  <img src="https://github.com/AdolfCarr/Rotating3DCube_In_QT_and_Java/blob/main/gif_Images/gif_C.gif" width="500" height="500">
 </p>
 <p align="center">
 

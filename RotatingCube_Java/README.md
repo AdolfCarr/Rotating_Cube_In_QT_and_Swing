@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/AdolfCarr/Rotating3DCube_In_QT_and_Java/blob/main/gif_Images/gif_Java.gif" width="250" height="250">
+  <img src="https://github.com/AdolfCarr/Rotating3DCube_In_QT_and_Java/blob/main/gif_Images/gif_Java.gif" width="500" height="500">
 </p>
 <p align="center">
 
@@ -18,4 +18,4 @@
 
 - **Select Project in the project Directory:** Click to select the project and simply click Run.
 
-- **View Output
+- **View Output**: Qt Creator will show the application's output in the Application Output pane at the bottom of the screen. This pane displays any console output from your application.

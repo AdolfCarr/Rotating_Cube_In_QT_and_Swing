@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/AdolfCarr/Rotating3DCube_In_QT_and_Java/blob/main/gif_Images/gif_C.gif" width="250" height="250">
+  <img src="https://github.com/AdolfCarr/Rotating3DCube_In_QT_and_Java/blob/main/gif_Images/gif_C.gif" width="500" height="500">
 </p>
 <p align="center">
 
