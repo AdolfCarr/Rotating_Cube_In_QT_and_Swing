@@ -12,7 +12,7 @@
 - **Java**: The programming language used for implementing the core logic and functionality of the computer 3D graphics.
 
 ## How to run the project
-- **Clone the project**: get a copy of the project on your computer.
+- **Clone the project**: Get a copy of the project on your computer.
 
 - **Open NetBeans**: Launch NetBeans on your computer.
 
